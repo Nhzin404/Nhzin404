@@ -1,4 +1,4 @@
-### Olá eu sou o Nathan 👍
+### ;) 👍
 
 <div align="center">
   <a href="https://github.com/nhzin404">
