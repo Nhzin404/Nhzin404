@@ -1,23 +1,24 @@
-# :)
+### Olá eu sou o Nathan 👍
 
 <div align="center">
   <a href="https://github.com/nhzin404">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nhzin404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhzin404&layout=compact&langs_count=7&theme=tokyonight"/>
+
+#
 <div style="display: inline_block"><br>
-  <img align="center" alt="nhzin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="nhzin-CSS" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg>
-  <img align="center" alt="nhzin-Ruby" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg>
-  
+  <img align="center" alt="-Html5"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img align="center" alt="-Css"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
+  <img align="center" alt="-Ruby"src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+   <img align="center" alt="-Ruby"src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
-# 
-<div
- <a href="https://www.youtube.com/channel/UCam-C_J7V2E80bQub3EO2qw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/nh1x__?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/ynathan_dks" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="discordapp.com/users/367633466382352384" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "vovodoidao0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-<div>
+#
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCam-C_J7V2E80bQub3EO2qw)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nh1x__?igshid=YmMyMTA2M2Y=)
+[![Twich](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nhzin085)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/367633466382352384)
+
+<div><br/>
+𝗦𝗲𝗺𝗽𝗿𝗲 𝗯𝘂𝘀𝗰𝗮𝗻𝗱𝗼 𝗮𝗽𝗿𝗲𝗻𝗱𝗲𝗿 𝗻𝗼𝘃𝗮𝘀 𝗰𝗼𝗶𝘀𝗮𝘀...
 
