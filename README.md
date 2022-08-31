@@ -19,7 +19,7 @@
 [![Twich](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nhzin085)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/367633466382352384)
 
-![Snake animation](https://github.com/Nhzin404/Nhzin404/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nhzin404/nhzin404/blob/output/github-contribution-grid-snake.svg)
     
 <div><br/>
 𝗦𝗲𝗺𝗽𝗿𝗲 𝗯𝘂𝘀𝗰𝗮𝗻𝗱𝗼 𝗮𝗽𝗿𝗲𝗻𝗱𝗲𝗿 𝗻𝗼𝘃𝗮𝘀 𝗰𝗼𝗶𝘀𝗮𝘀...
